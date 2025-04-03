@@ -14,7 +14,7 @@ body {
 .main {
   display: flex;
   flex-direction: column;
-  height: 50vh;
+  height: 40vh;
 }
 h1 {
   color: red;
